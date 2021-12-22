@@ -1,0 +1,5 @@
+Csak az src/components/Users.js fileban dolgozz!
+Kérd le az adatokat az alábbi endpointról: https://reqres.in/api/users?page=2 (axios benne van a package.json-ban, használata engedélyezett, de nem kötelező)
+Jelenítsd meg az összes felhasználó képét, kereszt- és vezetéknevét (minta: users.jpg)
+Helyezz el az oldalon egy input mezőt, amivel a megjelenítendő személyeket a neveik alapján lehet szűrni (minta: users_filtered_example.jpg)
+CSS, design nem lényeges
